@@ -5,6 +5,7 @@ import numpy as np
 import argparse
 from pygame import mixer
 
+# initialize alarm sound
 mixer.init()
 sound = mixer.Sound('alarm.WAV')
 
