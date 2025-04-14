@@ -3,8 +3,6 @@
  
 </h2>
 
-<h3 align="center"> The Project was done as a part of my College's major project.</h3>
-<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/made%20by-Arnav Anand-blue.svg" >
